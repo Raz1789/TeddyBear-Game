@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/C#/GameProject/content/audio/BurgerDamage.wav</File>
+    <File>D:/C#/GameProject/content/audio/BurgerDeath.wav</File>
+    <File>D:/C#/GameProject/content/audio/BurgerShot.wav</File>
+    <File>D:/C#/GameProject/content/audio/Explosion.wav</File>
+    <File>D:/C#/GameProject/content/audio/TeddyBounce.wav</File>
+    <File>D:/C#/GameProject/content/audio/TeddyShot.wav</File>
+    <File>D:/C#/GameProject/content/fonts/Arial20.spritefont</File>
+    <File>D:/C#/GameProject/content/graphics/burger.png</File>
+    <File>D:/C#/GameProject/content/graphics/explosion.png</File>
+    <File>D:/C#/GameProject/content/graphics/frenchfries.png</File>
+    <File>D:/C#/GameProject/content/graphics/teddybear.png</File>
+    <File>D:/C#/GameProject/content/graphics/teddybearprojectile.png</File>
+  </SourceFiles>
+</SourceFileCollection>
